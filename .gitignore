@@ -6,11 +6,15 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data (avoid uploading huge raw files)
-Raw/*.parquet
+Raw/
+Processed/
+*.parquet
+*.csv
 
-Processed/*.csv
-Processed/*.parquet
 
 # OS
 .DS_Store
 Thumbs.db
+
+# VScode
+.vscode/
