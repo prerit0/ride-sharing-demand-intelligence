@@ -21,3 +21,9 @@ Lowest revenue per trip occurs at 2nd hour(2 am)
 
 🔹 Weekend VS Weekday
 People travel less on Weekend than Weekday
+
+Revenue generated on Weekday is lot more than Weekday
+
+Average fare has minimal difference between weeken vs weekday
+
+Tip has minimal difference between weekend vs weekday
