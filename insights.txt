@@ -1,0 +1,11 @@
+Total trips by hour
+
+### -> 18th hour (6 pm) has the highest trips (226665)
+### -> 10th(10 am) is the hour where median trips occured (143723)
+### -> 4th hour(4 am) has the lowest trips (16860)
+
+Total revenue by hour
+
+### -> 17th hour(5 pm) generates the highest revenue (5811737.99)
+### -> 10th hour(10 am) is the hour where median revenue is generated (3543577.385)
+### -> 4th hour(4 am) generates the lowest revenue (486334.28)
