@@ -24,6 +24,8 @@ People travel less on Weekend than Weekday
 
 Revenue generated on Weekday is lot more than Weekday
 
-Average fare has minimal difference between weeken vs weekday
+Average fare has minimal difference between weekend vs weekday but still Weekday has the edge
+
+Trip duration are higher on weekday than weekend
 
 Tip has minimal difference between weekend vs weekday
