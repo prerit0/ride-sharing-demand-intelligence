@@ -20,12 +20,12 @@ Highest revenue per trip occurs at 5th hour(5 am)
 Lowest revenue per trip occurs at 2nd hour(2 am)
 
 🔹 Weekend VS Weekday
-People travel less on Weekend than Weekday
+Weekdays account for higher trip volume than weekend.
 
-Revenue generated on Weekday is lot more than Weekday
+Total revenue is significantly higher on weekdays, primarily due to increased trip frequency.
 
-Average fare has minimal difference between weekend vs weekday but still Weekday has the edge
+Average fare shows minimal variation between weekdays and weekends.
 
-Trip duration are higher on weekday than weekend
+Average trip duration is slightly higher on weekdays.
 
-Tip has minimal difference between weekend vs weekday
+Tip percentage remains relatively stable across both day types, indicating similar rider tipping behavior.
