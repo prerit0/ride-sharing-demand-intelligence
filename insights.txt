@@ -18,3 +18,6 @@ Revenue trends closely follow demand trends, with strong evening peaks.
 Highest revenue per trip occurs at 5th hour(5 am)
 
 Lowest revenue per trip occurs at 2nd hour(2 am)
+
+🔹 Weekend VS Weekday
+People travel less on Weekend than Weekday
