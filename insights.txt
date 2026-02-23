@@ -1,11 +1,20 @@
-Total trips by hour
+🔹 Demand Pattern
 
-### -> 18th hour (6 pm) has the highest trips (226665)
-### -> 10th(10 am) is the hour where median trips occured (143723)
-### -> 4th hour(4 am) has the lowest trips (16860)
+Peak demand occurs at 6 PM (18:00) with 226,665 trips.
 
-Total revenue by hour
+The lowest demand is observed at 4 AM with 16,860 trips
 
-### -> 17th hour(5 pm) generates the highest revenue (5811737.99)
-### -> 10th hour(10 am) is the hour where median revenue is generated (3543577.385)
-### -> 4th hour(4 am) generates the lowest revenue (486334.28)
+The demand curve shows a clear evening commute spike, suggesting strong post-work travel behavior.
+
+🔹 Revenue Pattern
+
+Highest revenue is generated at 5 PM (17:00), totaling $5.81M.
+
+The lowest revenue occurs at 4 AM with $0.48M
+
+Revenue trends closely follow demand trends, with strong evening peaks.
+
+🔹 Revenue per trip 
+Highest revenue per trip occurs at 5th hour(5 am)
+
+Lowest revenue per trip occurs at 2nd hour(2 am)
