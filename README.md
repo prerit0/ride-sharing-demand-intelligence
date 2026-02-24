@@ -21,8 +21,7 @@ processed/ → Cleaned and transformed data
 notebooks/ → Analysis notebooks
 
 ## Status
-
-Day 1 – Data Cleaning in Progress
+Data Cleaning using Python
 
 ## Dataset
 
