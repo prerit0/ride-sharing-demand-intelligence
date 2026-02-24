@@ -15,10 +15,10 @@ NYC TLC Yellow Taxi Trip Records (1 Month)
 - Power BI
 
 ## Project Structure
-
+notebooks/ → Data cleaning, EDA
 raw/ → Original dataset  
 processed/ → Cleaned and transformed data  
-notebooks/ → Analysis notebooks
+insights/ → insights gained from EDA
 
 ## Status
 Data Cleaning using Python
