@@ -22,6 +22,7 @@ notebooks/ → Analysis notebooks
 
 ## Status
 Data Cleaning using Python
+EDA using Python + SQL
 
 ## Dataset
 
