@@ -52,3 +52,11 @@ Manhattan division generates most revenue out of all divisions
 Queens division has the highest average revenue per trip
 
 EWR division generates the lowest revenue out of all divisions
+
+🔹 Surge analysis 
+
+revenue before surge : 80293244.48
+
+revenue after surge : 100014570.995
+
+percentage change : 24.56 %
