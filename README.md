@@ -1,6 +1,6 @@
 # Ride-Sharing Demand & Revenue Intelligence  
 ### NYC Yellow Taxi Data (Jan 2025)
-<img width="1536" height="1024" alt="NYC Taxi" src="https://github.com/user-attachments/assets/6daa7e51-eeb1-4f79-961a-812042167ce9" />
+<img width="1536" height="846" alt="NYC Taxi" src="https://github.com/user-attachments/assets/0cefcacb-bd43-4e1a-a71f-3c6373ec164a" />
 
 
 ---
