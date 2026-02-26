@@ -1,5 +1,7 @@
 # Ride-Sharing Demand & Revenue Intelligence  
-### Dynamic Surge Pricing Simulation | NYC Yellow Taxi Data (Jan 2025)
+### NYC Yellow Taxi Data (Jan 2025)
+<img width="1536" height="1024" alt="NYC Taxi" src="https://github.com/user-attachments/assets/6daa7e51-eeb1-4f79-961a-812042167ce9" />
+
 
 ---
 
