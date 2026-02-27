@@ -13,7 +13,7 @@ The primary objective was to:
 
 - Perform large-scale data cleaning and feature engineering  
 - Analyze demand and revenue trends using SQL and Python  
-- Identify peak demand periods and geographic concentration  
+- Identify peak demand periods
 - Simulate a percentile-based surge pricing model  
 - Estimate projected revenue uplift  
 - Build a regression model to predict fare amount  
