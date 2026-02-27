@@ -1,4 +1,4 @@
-🔹 Demand Pattern
+## 🔹 Demand Pattern
 
 Peak demand occurs at 6 PM (18:00) with 226,665 trips.
 
@@ -7,7 +7,7 @@ The lowest demand is observed at 4 AM with 16,860 trips
 The demand curve shows a clear evening commute spike, suggesting strong post-work travel behavior.
 
 
-🔹 Revenue Pattern
+## 🔹 Revenue Pattern
 
 Highest revenue is generated at 5 PM (17:00), totaling $5.81M.
 
@@ -16,14 +16,14 @@ The lowest revenue occurs at 4 AM with $0.48M
 Revenue trends closely follow demand trends, with strong evening peaks.
 
 
-🔹 Revenue per trip 
+## 🔹 Revenue per trip 
 
 Highest revenue per trip occurs at 5th hour(5 am)
 
 Lowest revenue per trip occurs at 2nd hour(2 am)
 
 
-🔹 Weekend VS Weekday
+## 🔹 Weekend VS Weekday
 
 Weekdays account for higher trip volume than weekend.
 
@@ -36,7 +36,7 @@ Average trip duration is slightly higher on weekdays.
 Tip percentage remains relatively stable across both day types, indicating similar rider tipping behavior.
 
 
-🔹 Zone-level analysis
+## 🔹 Zone-level analysis
 
 JFK Airport generates the highest revenue
 
@@ -45,7 +45,7 @@ Most top zones are in manhattan
 Airport zones are dominating among other zones
 
 
-🔹 Borough-level analysis
+## 🔹 Borough-level analysis
 
 Manhattan division generates most revenue out of all divisions
 
@@ -53,7 +53,7 @@ Queens division has the highest average revenue per trip
 
 EWR division generates the lowest revenue out of all divisions
 
-🔹 Surge analysis 
+## 🔹 Surge analysis 
 
 revenue before surge : $802,932,44.48
 
