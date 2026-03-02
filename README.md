@@ -111,8 +111,10 @@ Trip distance was identified as the strongest predictor of fare amount.
 A 3-page Power BI dashboard was built to present:
 
 1. NYC Taxi Demand - Revenue - Surge Analysis
-2. Location Based Revenue - Intelligence
-3. Surge Pricing Impact  
+   ![Dashboard-1](https://github.com/user-attachments/assets/6da347ab-4c20-4b73-ad4e-7cf46407773b)
+
+3. Location Based Revenue - Intelligence
+4. Surge Pricing Impact  
 
 (Screenshots included in repository)
 
