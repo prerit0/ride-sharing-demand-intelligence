@@ -114,7 +114,9 @@ A 3-page Power BI dashboard was built to present:
    ![Dashboard-1](https://github.com/user-attachments/assets/6da347ab-4c20-4b73-ad4e-7cf46407773b)
 
 3. Location Based Revenue - Intelligence
-4. Surge Pricing Impact  
+   ![Dashboard-2](https://github.com/user-attachments/assets/d80013fc-08d1-4921-98c0-cdb123a5afa1)
+
+5. Surge Pricing Impact  
 
 (Screenshots included in repository)
 
