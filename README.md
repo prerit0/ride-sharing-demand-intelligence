@@ -113,12 +113,12 @@ A 3-page Power BI dashboard was built to present:
 1. NYC Taxi Demand - Revenue - Surge Analysis
    ![Dashboard-1](https://github.com/user-attachments/assets/6da347ab-4c20-4b73-ad4e-7cf46407773b)
 
-3. Location Based Revenue - Intelligence
+2. Location Based Revenue - Intelligence
    ![Dashboard-2](https://github.com/user-attachments/assets/d80013fc-08d1-4921-98c0-cdb123a5afa1)
 
-5. Surge Pricing Impact  
+3. Surge Pricing Impact
+   ![Dashboard-3](https://github.com/user-attachments/assets/7b460a7a-dff8-438c-93c5-56e12a14db6e)
 
-(Screenshots included in repository)
 
 ---
 
